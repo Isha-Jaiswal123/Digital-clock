@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.wrapper{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+ background-color: black;
+}
+.display{
+  background-color: #26282a;
+  
+  color: cyan;
+  font-size: 47px;
+  width: 280px;
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
